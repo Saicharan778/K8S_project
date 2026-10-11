@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: two-wheelers
-        image: shopping-app-frontend:two-wheelers
+        image: saicharan778/shopping-app-frontend:two-wheelers
         ports:
         - containerPort: 80
 ---
