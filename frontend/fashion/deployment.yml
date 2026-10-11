@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: fashion
-        image: shopping-app-frontend:fashion
+        image: saicharan778/shopping-app-frontend:fashion
         ports:
         - containerPort: 80
 ---
