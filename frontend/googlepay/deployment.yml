@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: googlepay
-        image: shopping-app-frontend:googlepay
+        image: saicharan778/shopping-app-frontend:googlepay
         ports:
         - containerPort: 80
 ---
