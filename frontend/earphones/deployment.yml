@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: earphones
-        image: shopping-app-frontend:earphones
+        image: saicharan778/shopping-app-frontend:earphones
         ports:
         - containerPort: 80
 ---
