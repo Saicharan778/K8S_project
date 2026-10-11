@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: electronics
-        image: shopping-app-frontend:electronics
+        image: saicharan778/shopping-app-frontend:electronics
         ports:
         - containerPort: 80
 ---
