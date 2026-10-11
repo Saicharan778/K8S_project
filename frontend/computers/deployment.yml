@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: computers
-        image: shopping-app-frontend:computers
+        image: saicharan778/shopping-app-frontend:computers
         ports:
         - containerPort: 80
 ---
