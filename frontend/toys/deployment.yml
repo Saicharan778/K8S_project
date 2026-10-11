@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: toys
-        image: shopping-app-frontend:toys
+        image: saicharan778/shopping-app-frontend:toys
         ports:
         - containerPort: 80
 ---
