@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: appliances
-        image: shopping-app-frontend:appliances
+        image: saicharan778/shopping-app-frontend:appliances
         ports:
         - containerPort: 80
 ---
