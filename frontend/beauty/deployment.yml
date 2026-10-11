@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: beauty
-        image: shopping-app-frontend:beauty
+        image: saicharan778/shopping-app-frontend:beauty
         ports:
         - containerPort: 80
 ---
