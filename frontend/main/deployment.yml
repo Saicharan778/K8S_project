@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: main-frontend
-        image: shopping-app-frontend:main
+        image: saicharan778/shopping-app-frontend:main
         ports:
         - containerPort: 80
 ---
