@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: googlegrocery
-        image: shopping-app-frontend:googlegrocery
+        image: saicharan778/shopping-app-frontend:googlegrocery
         ports:
         - containerPort: 80
 ---
