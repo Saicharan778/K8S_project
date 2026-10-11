@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: sports
-        image: shopping-app-frontend:sports
+        image: saicharan778/shopping-app-frontend:sports
         ports:
         - containerPort: 80
 ---
