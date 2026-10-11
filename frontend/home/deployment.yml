@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: home
-        image: shopping-app-frontend:home
+        image: saicharan778/shopping-app-frontend:home
         ports:
         - containerPort: 80
 ---
