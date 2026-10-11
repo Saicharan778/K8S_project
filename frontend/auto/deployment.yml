@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: auto
-        image: shopping-app-frontend:auto
+        image: saicharan778/shopping-app-frontend:auto
         ports:
         - containerPort: 80
 ---
