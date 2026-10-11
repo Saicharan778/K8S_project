@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: googlemusic
-        image: shopping-app-frontend:googlemusic
+        image: saicharan778/shopping-app-frontend:googlemusic
         ports:
         - containerPort: 80
 ---
