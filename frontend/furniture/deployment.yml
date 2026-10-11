@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: furniture
-        image: shopping-app-frontend:furniture
+        image: saicharan778/shopping-app-frontend:furniture
         ports:
         - containerPort: 80
 ---
