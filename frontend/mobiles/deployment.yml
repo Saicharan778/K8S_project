@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: mobiles
-        image: shopping-app-frontend:mobiles
+        image: saicharan778/shopping-app-frontend:mobiles
         ports:
         - containerPort: 80
 ---
