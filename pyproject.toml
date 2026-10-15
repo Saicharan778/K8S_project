@@ -1,0 +1,17 @@
+
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "shopping-backend"
+version = "1.0.0"
+description = "Shopping application Flask backend"
+requires-python = ">=3.10"
+dependencies = [
+    "Flask"
+]
+
+[tool.setuptools]
+package-dir = {"" = "backend"}
+py-modules = ["app"]
