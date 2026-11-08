@@ -11,9 +11,9 @@ data:
   #DB_PASSWORD: "root"
   #DB_NAME: "cloud"
 #if mysql on RDS
-  DB_HOST: "mydb.ctugcmgkwf7t.ap-south-1.rds.amazonaws.com"
+  DB_HOST: "mydb.c6b2w0emkg2t.us-east-1.rds.amazonaws.com"
   DB_USER: "admin"
-  DB_PASSWORD: "saicharan778"
+  DB_PASSWORD: "admin123"
   DB_NAME: "cloud"
 
   MAIL_SERVER: "smtp.gmail.com"
